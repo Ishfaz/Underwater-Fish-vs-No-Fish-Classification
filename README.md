@@ -13,4 +13,3 @@ This repository contains the implementation of a fish vs no-fish classification 
    ```bash
    git clone https://github.com/your-username/mobilenet_fish_detection.git
    cd mobilenet_fish_detection
-pip install -r requiremnts.txt
